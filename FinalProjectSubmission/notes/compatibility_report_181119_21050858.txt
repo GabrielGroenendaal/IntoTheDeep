@@ -1,0 +1,17 @@
+!!! Font ft_main font family Arial Black is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\ft_main\ft_main.gms1.png
+Converting GML script: ${project_dir}\objects\obj_main\Draw_0.gml
+Converted builtin - line 49: background_color -> __background_get_colour( )
+
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'background/__background_get_colour.gml'
+Added compatibility script 'background/__background_get_colour_element.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script 'd3d/d3d_set_culling.gml'
+Added compatibility script 'd3d/d3d_set_projection_ext.gml'
+Added compatibility script 'd3d/d3d_start.gml'
+Added compatibility script 'draw/draw_enable_alphablend.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'd3d/__init_d3d.gml'
+Added compatibility script '__init_global.gml'
