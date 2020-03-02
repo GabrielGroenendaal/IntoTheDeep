@@ -8,7 +8,8 @@
         "6981b44e-dd27-46ca-8d9d-cdc6e954f0d9",
         "91247474-07f3-40d1-84be-91935ebec6ae",
         "ca3f6832-9658-4786-88c7-1c02e0935a93",
-        "56c5b040-75c6-4e83-aca6-9b94a7ee10fc"
+        "56c5b040-75c6-4e83-aca6-9b94a7ee10fc",
+        "c2d2b4f8-62eb-4fcd-a15d-8a9404456391"
     ],
     "filterType": "GMObject",
     "folderName": "artwork",

@@ -63,7 +63,7 @@ if (room = 0) {
 	instance_create_depth(0,0,0,oLight);
 	instance_create_depth(0,0,100,sea_dust_particles);
 	instance_create_depth(0,0,200,fuel_tracker);
-	instance_create_depth(0,0,200,sonar_controller);
+	instance_create_depth(0,0,200,updated_sonar_controller);
 	instance_create_depth(0,0,0,ui_controller);
 	instance_create_depth(0,0,300,background_controller);
 }

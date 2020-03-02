@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-/*
+
 if (sonar_duration <= 0) {
 	sonar_active = false;
 }
