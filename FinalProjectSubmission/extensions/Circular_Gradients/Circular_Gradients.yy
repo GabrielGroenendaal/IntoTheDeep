@@ -1,7 +1,7 @@
 {
     "id": "201898ef-cada-40e5-aff9-7a3643f0933d",
     "modelName": "GMExtension",
-    "mvc": "1.0",
+    "mvc": "1.2",
     "name": "Circular_Gradients",
     "IncludedResources": [
         "Sprites\\Circular Gradients\\spr_circular_gradient_linear_opaque",
@@ -67,6 +67,7 @@
     "copyToTargets": -1,
     "date": "2019-14-18 09:11:35",
     "description": "",
+    "exportToGame": true,
     "extensionName": "",
     "files": [
         
@@ -87,9 +88,12 @@
     "maccompilerflags": "",
     "maclinkerflags": "",
     "macsourcedir": "",
+    "options": null,
+    "optionsFile": "options.json",
     "packageID": "com.mytino.circulargradients",
     "productID": "ACBD3CFF4E539AD869A0E8E3B4B022DD",
     "sourcedir": "",
+    "supportedTargets": -1,
     "tvosProps": false,
     "tvosSystemFrameworkEntries": [
         

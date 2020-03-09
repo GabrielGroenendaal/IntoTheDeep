@@ -1,3 +1,6 @@
+/// @description Insert description here
+// You can write your code in this editor
+
 // You can write your code in this editor
 
 var offset = 500;
@@ -25,7 +28,7 @@ sprite_draw = weak_point_sprite;
 if (sonar_contr.sonar_active = true) {
 	
 		
-	offset = distance / 100;
+	offset = distance / 50;
 	if (monster.active) {
 		draw_alpha += alpha_deccel * 3;
 		draw_alpha = clamp(draw_alpha,0,1);
@@ -52,7 +55,7 @@ if (sonar_contr.sonar_active = true) {
 	
 }
 else {
-	offset = distance / 100;
+	offset = distance / 50;
 	draw_alpha -= alpha_deccel;
 	draw_alpha = clamp(draw_alpha,0,1);
 
