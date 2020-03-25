@@ -4,7 +4,7 @@ player_obj = instance_find(player,0);
 game_obj = instance_find(game_controller,0);
 
 sonar_timer = 0;
-sonar_duration = 2.5;
+sonar_duration = 1.5;
 sonar_active = true;
 
 monsters = 0;
@@ -23,5 +23,9 @@ for (var j = 0; j < array_length_1d(monsters); j++) {
 s_emit = audio_emitter_create();
 audio_emitter_gain(s_emit,.3);
 
-x = 300;
-y = 1300;
+xscale = 3;
+yscale = 3;
+alpha = .5;
+
+alpha_deccel = .008;
+draw_alpha = 0;

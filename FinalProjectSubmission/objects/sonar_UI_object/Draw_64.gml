@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 // You can write your code in this editor
-
+/*
 var offset = 500;
 var distance = point_distance(player_obj.x,player_obj.y,monster.x,monster.y);
 var direction_p = point_direction(player_obj.x,player_obj.y,monster.x,monster.y);
